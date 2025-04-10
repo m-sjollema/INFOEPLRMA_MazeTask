@@ -1,0 +1,16 @@
+﻿item_id;koppel_id;sentence_id;word_id;correct_word;incorrect_word;condition;prime_structure;target_structure;target_prime;posture_verb;overall_id
+0;1;1;1;De;xxx;practice;NA;NA;NA;NA;NA
+0;1;1;2;zon;zwemt;practice;NA;NA;NA;NA;NA
+0;1;1;3;schijnt;graag;practice;NA;NA;NA;NA;NA
+0;1;1;4;heel;boom;practice;NA;NA;NA;NA;NA
+0;1;1;5;fel.;kat.;practice;NA;NA;NA;NA;NA
+0;2;2;1;Het;xxx;practice;NA;NA;NA;NA;NA
+0;2;2;2;regent;vijf;practice;NA;NA;NA;NA;NA
+0;2;2;3;al;van;practice;NA;NA;NA;NA;NA
+0;2;2;4;de;jouw;practice;NA;NA;NA;NA;NA
+0;2;2;5;hele;open;practice;NA;NA;NA;NA;NA
+0;2;2;6;dag.;hier.;practice;NA;NA;NA;NA;NA
+0;3;3;1;Dit;xxx;practice;NA;NA;NA;NA;NA
+0;3;3;2;boek;zorgen;practice;NA;NA;NA;NA;NA
+0;3;3;3;is;de;practice;NA;NA;NA;NA;NA
+0;3;3;4;interessant.;schaduw.;practice;NA;NA;NA;NA;NA
